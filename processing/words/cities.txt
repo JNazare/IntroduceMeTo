@@ -1,0 +1,200 @@
+New York
+Los Angeles
+Chicago
+Houston
+Philadelphia
+Phoenix
+San Antonio
+San Diego
+Dallas
+San Jose
+Jacksonville
+Indianapolis
+Austin
+San Francisco
+Columbus
+Fort Worth
+Charlotte
+Detroit
+El Paso
+Memphis
+Boston
+Seattle
+Denver
+Baltimore
+Washington
+Nashville
+Louisville
+Milwaukee
+Portland
+Oklahoma City
+Las Vegas
+Albuquerque
+Tucson
+Fresno
+Sacramento
+Long Beach
+Kansas City
+Mesa
+Virginia Beach
+Atlanta
+Colorado Springs
+Raleigh
+Omaha
+Miami
+Tulsa
+Oakland
+Cleveland
+Minneapolis
+Wichita
+Arlington
+New Orleans
+Bakersfield
+Tampa
+Anaheim
+Honolulu
+Aurora
+Santa Ana
+St. Louis
+Riverside
+Corpus Christi
+Pittsburgh
+Lexington
+Stockton
+Cincinnati
+Anchorage
+Saint Paul
+Toledo
+Newark
+Greensboro
+Plano
+Lincoln
+Buffalo
+Henderson
+Fort Wayne
+Jersey City
+Chula Vista
+Saint Petersburg
+Orlando
+Norfolk
+Laredo
+Chandler
+Madison
+Lubbock
+Durham
+Winston–Salem
+Garland
+Glendale
+Baton Rouge
+Hialeah
+Reno
+Chesapeake
+Scottsdale
+Irving
+North Las Vegas
+Fremont
+Irvine
+San Bernardino
+Birmingham
+Gilbert
+Rochester
+Boise
+Spokane
+Montgomery
+Des Moines
+Richmond
+Fayetteville
+Modesto
+Shreveport
+Tacoma
+Oxnard
+Aurora
+Fontana
+Akron
+Moreno Valley
+Yonkers
+Augusta
+Little Rock
+Mobile
+Columbus
+Amarillo
+Glendale
+Huntington Beach
+Salt Lake City
+Grand Rapids
+Tallahassee
+Huntsville
+Worcester
+Knoxville
+Newport News
+Grand Prairie
+Brownsville
+Providence
+Santa Clarita
+Overland Park
+Jackson
+Garden Grove
+Chattanooga
+Oceanside
+Santa Rosa
+Fort Lauderdale
+Rancho Cucamonga
+Ontario
+Port Saint Lucie
+Vancouver
+Tempe
+Springfield
+Lancaster
+Pembroke Pines
+Cape Coral
+Eugene
+Peoria
+Sioux Falls
+Salem
+Corona
+Elk Grove
+Palmdale
+Springfield
+Salinas
+Pasadea
+Rockford
+Pomona
+Joliet
+Fort Collins
+Torrance
+Kansas City
+Paterson
+Hayward
+Escondido
+Bridgeport
+Syracuse
+Lakewood
+Alexandria
+Hollywood
+Naperville
+Mesquite
+Sunnyvale
+Dayton
+Cary
+Savannah
+Orange
+Pasadena
+Fullerton
+Hampton
+Clarksville
+McKinney
+Warren
+McAllen
+West Valley City
+Columbia
+Killeen
+Sterling Heights
+New Haven
+Topeka
+Thousand Oaks
+Olathe
+Cedar Rapids
+Reston
+Medford
+Needham
+Wellesley

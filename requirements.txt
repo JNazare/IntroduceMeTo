@@ -1,0 +1,2 @@
+python-twitter==0.8.7
+nltk==2.0.4

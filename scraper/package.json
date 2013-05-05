@@ -1,0 +1,22 @@
+{
+  "name": "introbot",
+  "version": "0.0.0",
+  "description": "Introbot",
+  "main": "index.js",
+  "dependencies": {
+    "rem": "~0.6.4",
+    "async": "~0.2.6",
+    "mongojs": "~0.7.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JNazare/IntroduceBot.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}

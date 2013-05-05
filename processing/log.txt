@@ -1,0 +1,248 @@
+TWEET: @IntroduceMeTo students that work for Game Closure
+[u'Anthony Szymczyk', 0.7, <person.Person object at 0x11077cb90>]
+[u'Dennis Ai', 0.6, <person.Person object at 0x1106b1d10>]
+[u'Aaron J Horowitz', 0.6, <person.Person object at 0x110773550>]
+--------------
+
+TWEET: @IntroduceMeTo program manager of Startup Institute Boston
+[u'Juliana Nazar\xe9', 1.05, <person.Person object at 0x10f826c50>]
+[u'Zac Champigny', 1.0, <person.Person object at 0x110d6d6d0>]
+[u'Will Fleiss', 1.0, <person.Person object at 0x110e298d0>]
+--------------
+
+TWEET: @IntroduceMeTo professors at MIT
+[u'Arfa Aijazi', 0.7, <person.Person object at 0x10a82ea50>]
+[u'Gabriel Blanchet', 0.7, <person.Person object at 0x10a82efd0>]
+[u'Andrew Campanella', 0.7, <person.Person object at 0x10a778510>]
+--------------
+
+TWEET: @IntroduceMeTo Startlabs
+[u'Turner Bohlen', 0.1, <person.Person object at 0x112d62150>]
+--------------
+
+TWEET: @IntroduceMeTo the founder of JiveHealth
+[u'Dennis Ai', 0.8, <person.Person object at 0x118026d10>]
+[u'Amaka Okoronkwo', 0.7, <person.Person object at 0x1180ee290>]
+[u'Pablo Bello', 0.6, <person.Person object at 0x1180e7e50>]
+--------------
+
+TWEET: @IntroduceMeTo Post Graduate Planning at Olin College
+[u'Ariana Chae', 1.0, <person.Person object at 0x10c4fc610>]
+[u'Jamie Gorson', 1.0, <person.Person object at 0x10c5b8e50>]
+[u'Sally Philipps Phelps', 1.0, <person.Person object at 0x10c5b9610>]
+--------------
+
+TWEET: @IntroduceMeTo the founder of Hydra
+[u'Matthew Alvarado', 0.7, <person.Person object at 0x10dfe1bd0>]
+[u'Christopher Fitzhugh', 0.7, <person.Person object at 0x10dfe7950>]
+[u'Amaka Okoronkwo', 0.7, <person.Person object at 0x10dfe8290>]
+--------------
+
+TWEET: @IntroduceMeTo designers at Backupify
+[u'Shannon Bator', 0.7, <person.Person object at 0x118de7cd0>]
+[u'Vishal Sunak', 0.7, <person.Person object at 0x118df1ad0>]
+[u'Tania Wedmid Pylyp', 0.6, <person.Person object at 0x118dee990>]
+--------------
+
+TWEET: @IntroduceMeTo people that work at BrightCo
+[u'Pippa Biddle', 0.7, <person.Person object at 0x10b53ded0>]
+--------------
+
+TWEET: @IntroduceMeTo people that work at MassChallenge
+[u'Cory Bolotsky', 0.7, <person.Person object at 0x118a38150>]
+[u'Jeremy Carter', 0.6, <person.Person object at 0x118a2ded0>]
+--------------
+
+TWEET: @IntroduceMeTo people that work at Rough Draft Ventures and Blank Label
+[u'Peter Boyce II', 0.9, <person.Person object at 0x10a0711d0>]
+[u'Ryan Dawidjan', 0.9, <person.Person object at 0x10a071ed0>]
+[u'Ilana WalderBiesanz', 0.6, <person.Person object at 0x10a133310>]
+--------------
+
+TWEET: @IntroduceMeTo people that are involved with .406 Ventures
+[u'Graham Brooks', 0.7, <person.Person object at 0x10a99be90>]
+[u'Balaji Viswanathan', 0.7, <person.Person object at 0x10aa68250>]
+[u'Juliana Nazar\xe9', 0.6, <person.Person object at 0x10945ccd0>]
+--------------
+
+TWEET: @IntroduceMeTo people that love Babson College
+[u'Alex Spies', 0.7, <person.Person object at 0x10f7dc810>]
+[u'Juliana Nazar\xe9', 0.6, <person.Person object at 0x10e1d5c50>]
+[u'Peter Boyce II', 0.6, <person.Person object at 0x10f71c1d0>]
+--------------
+
+TWEET: @IntroduceMeTo students who attend Babson College
+[u'Alex Spies', 0.7, <person.Person object at 0x1164e7810>]
+[u'Juliana Nazar\xe9', 0.6, <person.Person object at 0x114eddcd0>]
+[u'Peter Boyce II', 0.6, <person.Person object at 0x1164271d0>]
+--------------
+
+TWEET: @IntroduceMeTo students who attend Cooper Union
+[u'Swetha Chandrasekar', 0.9, <person.Person object at 0x11619af10>]
+[u'Kavya Akash', 0.6, <person.Person object at 0x11625ba90>]
+[u'Todd Kirkland', 0.6, <person.Person object at 0x1161bc4d0>]
+--------------
+
+TWEET: @IntroduceMeTo students who attend Olin College of Engineering
+[u'Juliana Nazar\xe9', 1.0, <person.Person object at 0x11032cc50>]
+[u'Aaron Crenshaw', 0.9500000000000001, <person.Person object at 0x111873cd0>]
+[u'Jessica Bethune', 0.9, <person.Person object at 0x111868dd0>]
+--------------
+
+TWEET: @IntroduceMeTo people related to the Correa family
+[u'Gyan Correa', 1.0, <person.Person object at 0x10b9f9b10>]
+[u'Nakul Correa', 1.0, <person.Person object at 0x10b9f9b90>]
+[u'Sanjay Correa', 1.0, <person.Person object at 0x10b9f9bd0>]
+--------------
+
+TWEET: @IntroduceMeTo people related to the Ryan family
+[u'Ryan Dawidjan', 1.0, <person.Person object at 0x11465bed0>]
+[u'Ryan Orbuch', 1.0, <person.Person object at 0x114672950>]
+[u'Tim Ryan', 1.0, <person.Person object at 0x114718f10>]
+--------------
+
+TWEET: @IntroduceMeTo people who work in marketing at Dashbell
+[u'Andrea de Melo', 0.75, <person.Person object at 0x10dd47f90>]
+[u'Elizabeth Cormack', 0.1, <person.Person object at 0x10dd52ad0>]
+[u'Adam Doucette', 0.1, <person.Person object at 0x10de0e250>]
+--------------
+
+TWEET: @IntroduceMeTo people who are Teaching Mentors at Startup Institute
+[u'David Ohayon', 1.0, <person.Person object at 0x1172f6910>]
+[u'Juliana Nazar\xe9', 0.9, <person.Person object at 0x115d98c50>]
+[u'Zac Champigny', 0.9, <person.Person object at 0x1172df6d0>]
+--------------
+
+TWEET: @IntroduceMeTo people who work for OtherLab
+[u'Kimly Do', 0.5, <person.Person object at 0x117d10210>]
+[u'Kevin Simon', 0.5, <person.Person object at 0x117d19550>]
+--------------
+TWEET: @IntroduceMeTo people who love Open Source
+[u'William Dvorak', 1.2, <person.Person object at 0x11267e450>]
+[u'Sebastian Dziallas', 1.1, <person.Person object at 0x11267e490>]
+[u'Greg Marra', 1.1, <person.Person object at 0x112680610>]
+--------------
+
+TWEET: @IntroduceMeTo students who attend Wellesley College
+[u'Consuelo Valdes', 0.7, <person.Person object at 0x112051f90>]
+[u'Juliana Nazar\xe9', 0.6, <person.Person object at 0x110a47cd0>]
+[u'Devin Elliott', 0.6, <person.Person object at 0x11204d590>]
+--------------
+
+TWEET: @IntroduceMeTo students who work for GE
+[u'Sanjay Correa', 0.7, <person.Person object at 0x10be1fbd0>]
+[u'Eliana Eskinazi', 0.6, <person.Person object at 0x10bedb5d0>]
+--------------
+
+TWEET: @IntroduceMeTo students who love robotics
+[u'Abe Feldman', 0.2, <person.Person object at 0x1143b9790>]
+[u'Andrew Heine', 0.2, <person.Person object at 0x1143b4310>]
+[u'Ben Kroop', 0.2, <person.Person object at 0x1143b4f50>]
+--------------
+
+TWEET: @IntroduceMeTo students who love robotics
+[u'Abe Feldman', 0.2, <person.Person object at 0x11052c710>]
+[u'Andrew Heine', 0.2, <person.Person object at 0x110531290>]
+[u'Ben Kroop', 0.2, <person.Person object at 0x110531ed0>]
+--------------
+
+TWEET: @IntroduceMeTo people who are Teaching Mentors at Startup Institute
+[u'David Ohayon', 1.0, <person.Person object at 0x110990950>]
+--------------
+
+TWEET: @IntroduceMeTo people that work at MassChallenge
+[u'Cory Bolotsky', 0.7, <person.Person object at 0x10f1f5190>]
+--------------
+
+TWEET: @IntroduceMeTo people that work at BlueFin
+[u'Abe Feldman', 0.6000000000000001, <person.Person object at 0x1176297d0>]
+[u'Bradley Powers', 0.6000000000000001, <person.Person object at 0x11762c8d0>]
+--------------
+
+TWEET: @IntroduceMeTo students who love circuits and wireless power transfer
+[u'Kushal Seetharam', 0.1, <person.Person object at 0x10c7532d0>]
+--------------
+
+TWEET: @IntroduceMeTo students who work with wireless power transfer
+[u'Kushal Seetharam', 0.1, <person.Person object at 0x10f87f2d0>]
+--------------
+
+TWEET: @IntroduceMeTo students who work with Wireless Power Transfer
+[u'Bradley Powers', 1.0, <person.Person object at 0x11655a8d0>]
+--------------
+
+TWEET: @IntroduceMeTo Program Managers for Microsfot that live in Seattle
+[u'Andy Cole', 0.7, <person.Person object at 0x1092e5a90>]
+[u'Elizabeth Weber', 0.7, <person.Person object at 0x1092fad10>]
+[u'Ariel Winton', 0.7, <person.Person object at 0x1093a7610>]
+--------------
+
+TWEET: @IntroduceMeTo Program Managers for Microsoft that live in Seattle
+[u'Jeffrey Atkinson', 0.8, <person.Person object at 0x10d084c90>]
+[u'Kate Dramstad', 0.8, <person.Person object at 0x10d0883d0>]
+[u'Chris Gallello', 0.8, <person.Person object at 0x10d088b90>]
+--------------
+
+TWEET: @IntroduceMeTo people that work at Filepicker.io
+[u'Brett van Zuiden', 0.7, <person.Person object at 0x10d67e0d0>]
+--------------
+
+TWEET: @IntroduceMeTo people that work at EdX
+[u'Mark Chang', 0.6000000000000001, <person.Person object at 0x10c91e750>]
+[u'Marco Morales', 0.6000000000000001, <person.Person object at 0x10c9dcd50>]
+[u'Michael Murray', 0.6000000000000001, <person.Person object at 0x10c9dced0>]
+--------------
+
+TWEET: @IntroduceMeTo people that work at Twitter
+[u'Paul Booth', 0.7, <person.Person object at 0x1149c71d0>]
+--------------
+
+TWEET: @IntroduceMeTo people that work at Twitter
+--------------
+
+TWEET: @IntroduceMeTo people that work at Twitter
+[u'Paul Booth', 0.7, <person.Person object at 0x114f16110>]
+[u'Nick Hazelton', 0.6, <person.Person object at 0x114fd01d0>]
+[u'Tiange Angela Lei', 0.6, <person.Person object at 0x114fd4110>]
+--------------
+
+TWEET: @IntroduceMeTo people that work at Twitter
+[u'Paul Booth', 0.7, <person.Person object at 0x10df19110>]
+[u'Nick Hazelton', 0.6, <person.Person object at 0x10dfd31d0>]
+[u'Tiange Angela Lei', 0.6, <person.Person object at 0x10dfd7110>]
+--------------
+
+TWEET: @IntroduceMeTo people that work at Twitter
+[u'Paul Booth', 0.7, <person.Person object at 0x11485b110>]
+[u'Nick Hazelton', 0.6, <person.Person object at 0x1149151d0>]
+[u'Tiange Angela Lei', 0.6, <person.Person object at 0x114919110>]
+--------------
+
+TWEET: @IntroduceMeTo people that work at Twitter
+[u'Paul Booth', 0.7, <person.Person object at 0x110ad5110>]
+--------------
+
+TWEET: @IntroduceMeTo people that work at TechStars
+[u'Kevin Chang', 0.7, <person.Person object at 0x116334790>]
+[u'Eric Famiglietti', 0.7, <person.Person object at 0x1163f06d0>]
+--------------
+
+TWEET: @IntroduceMeTo people that work at LittleBonsai
+[u'Jake Felser', 0.7, <person.Person object at 0x10f9ef850>]
+[u'Oliver Haas', 0.7, <person.Person object at 0x10f9ea050>]
+--------------
+
+TWEET: @IntroduceMeTo students at Georgetown University
+[u'Elena Roeva', 0.9, <person.Person object at 0x10a58ac90>]
+--------------
+
+TWEET: @IntroduceMeTo marketers at Yesware
+[u'Paul Hlatky', 0.7, <person.Person object at 0x111cd32d0>]
+--------------
+
+TWEET: @IntroduceMeTo students at Northeastern
+[u'Matt Bilotti', 0.5, <person.Person object at 0x113355f10>]
+[u'Cory Bolotsky', 0.5, <person.Person object at 0x11329f150>]
+[u'Casey Hogan', 0.5, <person.Person object at 0x113356450>]
+--------------
+
